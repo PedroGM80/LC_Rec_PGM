@@ -1,7 +1,6 @@
 package prueba3
 
-class Pianista( unInstrumento: Instrumento,unaCancion: Array<Nota?> = arrayOfNulls<Nota?>(0)): Musico(unInstrumento) {
-
+class Pianista(unInstrumento: Instrumento, unaCancion: Array<Nota?> = arrayOfNulls<Nota?>(0)) : Musico(unInstrumento) {
 
     var partitura: Array<Nota?> = unaCancion
         set(value) {

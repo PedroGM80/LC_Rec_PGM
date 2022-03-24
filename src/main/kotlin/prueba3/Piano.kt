@@ -1,7 +1,7 @@
 package prueba3
 
 //Un piano es un instrumento que interpreta las notas con un timbre muy característico
-class Piano:Instrumento() {
+class Piano : Instrumento() {
 
     //Recorreremos las notas y las interpretaremos de la forma específica del piano.
     override fun play() {

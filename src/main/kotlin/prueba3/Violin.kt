@@ -1,8 +1,6 @@
 package prueba3
 
-class Violin :Instrumento(){
-
-
+class Violin : Instrumento() {
 
     override fun play() {
         println("===> Tocando ${this::class.simpleName}")
