@@ -8,7 +8,7 @@ Tenemos un conjunto de clases que nos permiten simular la realización de un con
 
 - `Log` contiene lo necesario para enviar mensajes de log. No cambiará.
 - `prueba3.Nota` es una clase enumerada para trabajar con las notas musicales. No cambiará.
-- `Concierto` tiene el método `prueba3.Actividad_7_5.main` que ejecuta una prueba de nuestro programa concierto.
+- `Concierto` tiene el método `prueba3.ActividadBattleRoyal.main` que ejecuta una prueba de nuestro programa concierto.
 - `prueba3.Piano` representa un instrumento, `melodía` es una lista de notas y el método `play` "las reproduce según el
   instrumento"
 - `prueba3.Pianista` representa un intérprete, `canción` es una lista de notas y el método `interpretar` toca el
@@ -39,7 +39,7 @@ Actualmente solo se puede dar un concierto del pianista, tocando el piano. Se pu
 La práctica se ejecutará con este código:
 
 ```kotlin
-fun prueba3.Actividad_7_5.main() {
+fun prueba3.ActividadBattleRoyal.main() {
     val obra = arrayOf<prueba3.Nota?>(prueba3.Nota.MI, prueba3.Nota.MI, prueba3.Nota.DO, prueba3.Nota.FA)
     val interpretes = mutableMapOf(
         "prueba3.Pianista" to prueba3.Pianista(prueba3.Piano(), obra),

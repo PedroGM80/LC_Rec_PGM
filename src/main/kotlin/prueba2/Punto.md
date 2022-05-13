@@ -107,7 +107,7 @@ Adicionalmente se tendrá en cuenta:
       ![](../../../resources/img/examen1/creaProyecto.png)
     - Sigue los pasos hasta crear el proyecto.
 2. Realiza el examen: Ayuda para plantear el examen:
-    - Ve realizando los métodos de las clases, y pruébalos en el `prueba3.Actividad_7_5.main`.
+    - Ve realizando los métodos de las clases, y pruébalos en el `prueba3.ActividadBattleRoyal.main`.
     - Lee atentamente las indicaciones y pregunta las dudas al profesor.
 3. Comparte el proyecto, si lo haces privado tendrás que añadirme como colaborador:
     - Opción de Menú: `VCS` -> `Share Project on GitHub`.
