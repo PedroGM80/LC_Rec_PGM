@@ -13,7 +13,7 @@ class BattleRoyal {
             return lineList
         }
     }
-}
+
 
 fun main(args: Array<String>) {
     var muertos = 0
