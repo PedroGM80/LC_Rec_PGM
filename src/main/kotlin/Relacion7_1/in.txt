@@ -1,0 +1,3 @@
+Id; Hora; Duración; Lunes; Martes; Miercoles; Jueves; Viernes; %Jornada
+1; 15:30-16:30; 1.0f; SI; PRO; BBDD; BBDD; LM; 0,16%
+2; 16:30-17:30; 1.0f; SI; PRO; BBDD; BBDD; LM; 0,32%

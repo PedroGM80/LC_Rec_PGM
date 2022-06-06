@@ -57,6 +57,6 @@ fun main(args: Array<String>) {
     val live = listPlayer.size
     val survivor = live - muertos
     println(survivor)//muertos
-}
+}}
 
 

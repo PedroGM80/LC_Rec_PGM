@@ -11,8 +11,12 @@ repositories {
     mavenCentral()
 }
 
+
 dependencies {
     testImplementation(kotlin("test"))
+    // KFORMAT - Formateo de la salida por tablas
+    implementation("de.m3y.kformat:kformat:0.9")
+
 }
 
 tasks.test {
